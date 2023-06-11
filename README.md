@@ -1,6 +1,6 @@
 # network_of_rings
 Math 151 Probability final project (Spring 2023) 
-Seohyeon Lee, Eusila Kitur, Echo Zhang
+Seohyeon Lee
 
 Network of Rings is a community detection project where I visualized the relationship between Lord of the Ring characters into a graph and determined whether their relationships can be split into isolated communities. I used Python to render the graph.
 
