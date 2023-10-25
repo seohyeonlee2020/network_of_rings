@@ -5,3 +5,5 @@ I assumed that two characters had 1 interaction with each other every time they 
 
 ![image](https://github.com/seohyeon-lee-2025/network_of_rings/assets/96499556/7dbaa4f5-fb86-468d-9472-9bd4732c6a4d)
 
+
+I was inspired by Network of Thrones (https://networkofthrones.wordpress.com/). 
